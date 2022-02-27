@@ -1,0 +1,155 @@
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Auto_Mode.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\Omer - 12_07\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Manual_Mode.resources
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Manual_Mode.resources
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\user1\Desktop\Educational_Program-13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Manual_Mode.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_1.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Manual_Mode.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_1.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_2.resources
+C:\Users\user1\Desktop\omer - 13.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_3.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Manual_Mode.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_1.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_2.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_3.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_4.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\user1\Desktop\גיבוי - 15.7\omer - 15.7\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Manual_Mode.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_1.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_2.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_3.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_4.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\15.7.2 with designs\15.7.2 - with designs\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Manual_Mode.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_1.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_2.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_3.resources
+C:\Users\user1\Desktop\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_4.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe.config
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\bin\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\bin\Debug\Educational_Program.pdb
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csprojAssemblyReference.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Choosing_Exercise_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Educational_Manual_Mode.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.access_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Games_Menu_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_1.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_2.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_3.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Game_4.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Properties.Resources.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.Update_frm.resources
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.GenerateResource.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.exe
+C:\Users\david\source\repos\שנה א\סמסטר ב'\final task\תחילת עבודה שישי באמת\15.7 גרסא סופית בלילה-20210716T041257Z-001\15.7 גרסא סופית בלילה\Educational_Program\Educational_Program\obj\Debug\Educational_Program.pdb
